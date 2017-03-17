@@ -19,8 +19,8 @@ or Maven:
 ```
 ## Usage ##
 - just start io.pillar.fullscreenimagegallery.MainActivity, and put two params to it.
-one param is imageUrls, which is the array of image url; other param is currentIndex, which is the item position you current clicking.
-you can checkout the usage sample from this: [app](./app)
+one param is imageUrls, which is a array of image url; another param is currentIndex, which is the item position you currently clicking.
+you can checkout the usage sample from: [app](./app)
 
 ```
 Intent intent = new Intent(context,
